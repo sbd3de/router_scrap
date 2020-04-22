@@ -1,4 +1,5 @@
 # router_scrap
+NOTE: Use raw mode to read properly this README file.
 
 Web Scrapping tool for home Wifi-Routers management automation. It simulates a human using router's GUI, sending keyboard keystrokes and mouse clicks.
 
