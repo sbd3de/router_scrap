@@ -25,7 +25,7 @@ from time import sleep
 
 cfg_browser = 'Firefox'     # Default browser for webdriver.   Use = 'Chrome' for Google browser
 user='1234'                 # Username for login into router
-mykey='jeccam69'            # passwd for longin into router
+mykey='YOUR_PASSWORD_HERE'  # passwd for longin into router
 maclist =[]                 # MAC Adress list for removing MACs
 maclist2=[]                 # MAC Adress list for adding   MACs
 set_mode=''                 # MAC table Mode to be set (opt_set = True)
