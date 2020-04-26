@@ -1,0 +1,8 @@
+Para actualizar cambios en Github: (ver https://rogerdudler.github.io/git-guide/index.es.html):
+
+
+	git add  "filename"
+	git add . 			( se supoen que con 1 de los 2 es suficiencte)
+
+	git commit -m "Commit description"
+	git push origin 'branch_name'
